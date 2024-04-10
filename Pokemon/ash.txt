@@ -1,0 +1,10 @@
+hello my name is himanshu
+i'm currently learning how to use git and github
+x
+
+:x
+;x
+:X
+exit
+.x
+ash.x
